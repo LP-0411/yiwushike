@@ -1,0 +1,19 @@
+{
+  "name": "家宴 · 家庭点菜",
+  "short_name": "家宴",
+  "description": "一家人一起决定吃什么：点菜、排期、采购清单与评分。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F6F1E8",
+  "theme_color": "#F6F1E8",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

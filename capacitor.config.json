@@ -1,0 +1,8 @@
+{
+  "appId": "com.jiayan.dishapp",
+  "appName": "家宴点菜",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
